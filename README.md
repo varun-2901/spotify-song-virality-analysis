@@ -1,6 +1,6 @@
 # Spotify Song Virality & Audio Feature Analysis (Power BI)
 
-## 📌 Introduction
+## Introduction
 This project analyses historical Spotify song data to understand **how song virality has evolved over time**.  
 The goal is to identify patterns in release timing, era-level performance, and audio characteristics that influence how songs gain attention on streaming platforms.
 
@@ -13,7 +13,7 @@ By combining custom metrics, interactive visuals, and clear storytelling, this p
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 - Are certain **months or years** more likely to produce viral songs?
 - How does song virality differ between **Pre-2010, 2010s, and 2020s**?
 - Has the surge in music releases during the 2020s reduced **average song impact**?
@@ -22,9 +22,9 @@ By combining custom metrics, interactive visuals, and clear storytelling, this p
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
-### 1️⃣ Release Timing & Virality Trends
+### Release Timing & Virality Trends
 This section examines how virality changes over time and across release months.
 
 **Key elements:**
@@ -38,7 +38,7 @@ Song virality fluctuates significantly across years and months, suggesting that 
 
 ---
 
-### 2️⃣ Era Analysis (Pre-2010 vs 2010s vs 2020s)
+### Era Analysis (Pre-2010 vs 2010s vs 2020s)
 This section compares song volume and average impact across different musical eras.
 
 **Key elements:**
@@ -52,7 +52,7 @@ Songs released in the **2020s show lower average virality** compared to the 2010
 
 ---
 
-### 3️⃣ Audio Feature Evolution
+### Audio Feature Evolution
 This section explores how the **sound of viral music** has evolved over time.
 
 **Key elements:**
@@ -69,13 +69,13 @@ Modern viral songs tend to be more **danceable and energetic**, with declining a
 
 ---
 
-## 🧮 Custom Metrics
+## Custom Metrics
 - **Viral Index**: A custom DAX measure combining streaming volume, playlist presence, and chart performance
 - Average Viral Index is used consistently across visuals to enable fair comparison across time and eras
 
 ---
 
-## 🛠 Tools & Techniques
+## Tools & Techniques
 - **Power BI**
 - DAX (custom measures and aggregations)
 - Conditional formatting (heatmaps)
@@ -84,13 +84,13 @@ Modern viral songs tend to be more **danceable and energetic**, with declining a
 
 ---
 
-## 📁 Dataset
+## Dataset
 - Public Spotify dataset sourced from Kaggle  
 - Includes song metadata, audio features, chart presence, and streaming metrics
 
 ---
 
-## 💼 Why This Project Matters (For Recruiters)
+## Why This Project Matters (For Recruiters)
 ✔ Demonstrates full BI workflow from raw data to insights  
 ✔ Shows strong data storytelling and business framing  
 ✔ Uses advanced visuals without unnecessary complexity  
@@ -98,7 +98,7 @@ Modern viral songs tend to be more **danceable and energetic**, with declining a
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 The analysis reveals a clear shift in the dynamics of song virality. While the 2020s have seen a dramatic increase in music output, average song virality has declined compared to the 2010s.
 
 This indicates heightened competition for attention and shorter content lifecycles in the modern streaming environment. At the same time, audio characteristics have evolved — modern viral songs are generally more energetic and danceable, with reduced acoustic influence.
@@ -107,7 +107,7 @@ Overall, success on streaming platforms appears to be driven not by volume alone
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Release Timing & Virality Trends
 ![Page 1](screenshots/Release_Timing_&_Virality_Trends.png)
@@ -120,6 +120,7 @@ Overall, success on streaming platforms appears to be driven not by volume alone
 
 ---
 
-## 👤 Author
+## Author
 Created by **Varun Sridhar**  
 Aspiring Data Analyst / BI Analyst
+
